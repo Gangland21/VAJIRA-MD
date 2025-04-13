@@ -1,20 +1,26 @@
+
 {
-  "bot-name": "VAJIRA-MD",
-  "description": "VAJIRA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
-  "logo": "https://i.ibb.co/zdY1zjg/IMG-20250407-WA0036.jpg",
-  "keywords": ["bot"],
-  "documentation-link": "https://github.com/MXN-MOVIE/VAJIRA-MD",
-  "owner-verification": "vajirarathnayaka891@gmail.com",
-  "env": {
-    "SESSION_ID": {
-      "description": "Put your session id here.",
-      "value": "",
-      "required": true
-    },
-"MODE": {
-      "description": "Put button to activate button mode or put nonbutton to activate number reply mode.",
-      "value": "button",
-      "required": true
+    "bot-name": "VAJIRA-MD",
+    "description": "VAJIRA-MD made for people on Earth",
+    "logo": "https://i.ibb.co/zdY1zjg/IMG-20250407-WA0036.jpg",
+    "keywords": ["bot"],
+    "documentation-link": "https://vajira-session-1db9a0fec85f.herokuapp.com/",
+    "owner-verification":"vajirarathnayaka891@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {
+        "description": "Put your SESSION_ID here. Make sure it starts with VAJIRA-MD=, or get session id from here, https://vajira-session-1db9a0fec85f.herokuapp.com/",
+        "value":"",
+        "required": true
+        
+      },
+
+      "MODE": {
+        "description": "To change button mode put button. or to change number reply mode put nonbutton",
+        "value":"nonbutton",
+        "required": false
+        
+      }
     }
-  }
+  
 }

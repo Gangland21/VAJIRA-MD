@@ -14,7 +14,7 @@
     "MODE": {
             "description": "Put button or nonbutton to change the mode",
             "required": true,
-            "value": "button"
+            "value": "nonbutton"
         }
     },
          "buildpacks": [

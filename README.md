@@ -96,6 +96,7 @@
 
 ## CHOOSE DEPLOYMENT METHOD 👇
 
+[![Talkdrove](https://raw.githubusercontent.com/MXN-MOVIE/IniNathan.github.io/refs/heads/master/1000411710.svg)](https://host.talkdrove.com/share-bot/54)
 
 
  
