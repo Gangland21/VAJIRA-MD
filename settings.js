@@ -14,6 +14,6 @@ POSTGRESQL_URL: process.env.POSTGRESQL_URL === undefined ? 'postgres://vajiratec
 MAX_SIZE: 500,
 MODE: process.env.MODE === undefined ? 'nonbutton' : process.env.MODE,
 STATUS_REPLY_MESSAGE: '',    
-ALIVE:  process.env.ALIVE  || '> wagwan its Mc here wassup'  ,    
+ALIVE:  process.env.ALIVE  || '> wagwan mon, its Mc here wassup'  ,    
 DELETEMSGSENDTO : process.env.DELETEMSGSENDTO === undefined ? '260771798128' : process.env.DELETEMSGSENDTO        
 };
